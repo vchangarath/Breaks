@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffedc6;
+  }
+  h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 5.2rem;
+    color: #96dae4;
+    padding-top: 40px;
+    }
+    hr {
+        border-style: none;
+        border-top: dotted;
+        width: 10%;
+        border-color: #6d70c6;
+        border-width: 5px;
+    }
+    h2 {
+        color: #6d70c6;
+    }
+    p {
+        color:#6d70c6;
+
+    }
+    .butn {
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Arial;
+        color: #E7E3DA;
+        font-size: 20px;
+        background: #C17498;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        margin-top: 15px;
+        float: left;
+      }
+      .butn:hover {
+        background: #92CA9B;
+        text-decoration: none;
+      }
+    header {
+        position: relative;
+        text-align: center;
+        padding-bottom: 100px;
+
+    }
+    .hi {
+        padding: 100px;
+
+    }
+.us {
+    height: 400px;
+    width: 40%;
+    padding: 20px;
+    float: left;
+    margin-right: 50px;  
+    border-radius: 50%;   
+}
+
+.sidebyside {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sidebyside img {
+    width: 500px;
+    height: 500px;
+}
+.science {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
